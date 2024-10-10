@@ -30,8 +30,8 @@ function Booking() {
 
   const handlePayment = () => {
     const options = {
-      // key: 'rzp_test_tRDG5uVixGXhPm',
-      key: 'rzp_test_8BWLykZxQJXYDo',
+      // key: 'rzp_test_tRD',
+      key: 'rzp_test_8BWL',
       amount: 50000, // Amount in paise
       currency: 'INR',
       name: 'Hotel Booking',
